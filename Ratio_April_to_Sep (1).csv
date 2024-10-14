@@ -1,0 +1,8 @@
+Month ,Lead_Count/Month,Phone_Call_Count/Month,Validated_Lead_Count/Month,DM_Cost/Month,Phone_Cost/Month, Total_Cost(DM+Phone_Calls),Count _of_Orders _Deliverd /Month,Revenue_generated/Month,Cost per lead Ratio,Cost /confirmed_order_Month_Wise_Ratio,Leads to Calls Connected Ratio,Leads to validated Lead Ratio,Leads to Order Ratio,Roas,Time to reach out to the lead Whether the person had answered the call or not is irrelevant,Time to reach out to the lead when conversation happen,Cost per validated lead 
+24-Apr,132,94,0,12862.18,302.55,13164.73,2,24380,99.73,12190,0.71,0,0.015,1.85,0.9,0.96,0
+24-May,400,320,43,34542.67,1382.25,36324.99,0,0,90.81,0,0.8,0.026,0,0,0.93,0.91,0.0011
+24-Jun,163,129,7,23631.58,828.3,24459.88,0,0,150.06,0,0.79,0.004,0,0,0.93,0.91,0.0002
+24-Jul,174,146,24,14533.49,618.45,15151.94,9,181428,86.58,20158.66,0.83,0.015,0.051,11.98,0.85,0.85,0.0015
+24-Aug,309,231,52,10764.09,1292.2,12056.29,7,126746.63,37.91,18106.66,0.84,0.036,0.022,10.51,1,0.97,0.004
+24-Sep,420,336,52,24262.01,1596.15,25858.16,2,45547.3,60.27,22773.65,0.76,0.036,0.004,1.76,0.93,0.91,0.002
+Total,1598,1256,178,120596.02,6019.9,127015.99,20,378101.93,,,0.79,0.111,,2.97,0.93,0.91,
